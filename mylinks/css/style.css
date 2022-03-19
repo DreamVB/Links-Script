@@ -133,3 +133,8 @@ form{
 .links ul li a:hover{
 	color: #575782;
 }
+
+.div-delete{
+	display: inline-block;
+	color: red;
+}
