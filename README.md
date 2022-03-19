@@ -4,5 +4,9 @@ Here is a little script I made in PHP CSS JS to allow you to post links online a
 
 Demo
 
+Updated 19-03-22
+
+- Added admin area were you can delete links.
+
 http://dreamvb.rf.gd/mylinks/
 
